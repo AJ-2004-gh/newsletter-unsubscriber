@@ -613,9 +613,8 @@ SOFTWARE.
 ## 👤 Author
 
 **[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- Email: jkadwaith1@gmail.com
+- LinkedIn: [ADWAITH J](www.linkedin.com/in/adwaithj)
 
 **Built for:** AI for Bharat Challenge 2025
 
