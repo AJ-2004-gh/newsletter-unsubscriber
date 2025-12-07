@@ -515,7 +515,7 @@ app.run(port=5001)
 1. Check [TROUBLESHOOTING.md](TROUBLESHOOTING.md)
 2. Review [API_REFERENCE.md](API_REFERENCE.md)
 3. Open an issue on GitHub
-4. Contact: [your-email@example.com]
+4. Contact: [jkadwaith1@gmail.com]
 
 ---
 
@@ -612,7 +612,7 @@ SOFTWARE.
 
 ## 👤 Author
 
-**[Your Name]**
+**[ADWAITH J]**
 - Email: jkadwaith1@gmail.com
 - LinkedIn: [ADWAITH J](www.linkedin.com/in/adwaithj)
 
